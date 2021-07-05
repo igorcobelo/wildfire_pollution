@@ -1,2 +1,2 @@
-# Effects of forest fires on air quality in Brazil
+# Effects of wildfires on air quality in Brazil
 > Published article in Nature Geoscience.
